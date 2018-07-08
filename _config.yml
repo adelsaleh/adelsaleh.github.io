@@ -6,7 +6,7 @@
 name: CHoudrouge
 
 # Short bio or description (displayed in the header)
-#description: 
+description: ""
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: CHoudrouge4
   instagram:
-  linkedin: https://www.linkedin.com/in/husseinhoudrouge/
+  linkedin: husseinhoudrouge
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
