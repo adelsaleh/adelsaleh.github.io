@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## Internship and Project Reports
+## Computer Science Internship and Project Reports
 
 * [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
 
@@ -13,3 +13,12 @@ title: ""
 Dimensional Data]({{ site.baseurl }}/pdfs/snnahdd.pdf) First year project report.
 
 * [Computing Geodesic Distance Based on Heat Flow]({{ site.baseurl }}/pdfs/cggbohf.pdf) Digital Analysis and Representation of Shapes course project.
+
+### Philosophy of Physics Papers
+
+* [Space and Change]({{ site.baseurl }}/pdfs/Space_and_Change.pdf)
+
+* [Space and Geometry]({{ site.baseurl }}/pdfs/Space_and_Geometry.pdf)
+
+
+* [Quantum Experiences]({{ site.baseurl }}/pdfs/Quantum_Experiences.pdf)
