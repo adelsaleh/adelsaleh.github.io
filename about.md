@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Alt text](/images/me.png){: .callout}
+![Alt text](/images/me.png){:.callout}
 
 Hi! I am research and teaching assistant at the [American University of Beirut](http://www.aub.edu.lb/). I am doing research in Computational Geometry and Graph Theory.
 
