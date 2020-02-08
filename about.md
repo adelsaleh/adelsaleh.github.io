@@ -6,11 +6,11 @@ permalink: /about/
 
 ![Alt text](/images/me.png){: .callout}
 
-Hi! I am research and teaching assistant at the [American University of Beirut](http://www.aub.edu.lb/). I am doing research in Computational Geometry and Graph Theory.
+Hi! I am research and teaching assistant at the [American University of Beirut](http://www.aub.edu.lb/). My work focuses on Computational Geometry and Graph Theory.
 
-I graduated recently with a master degree in computer science from [Ecole Polytechnique](https://www.polytechnique.edu/).I did my master research internship at [LIP6](https://www.lip6.fr/recherche/team.php?acronyme=RO).
+I graduated recently with a master degree in computer science from [Ecole Polytechnique](https://www.polytechnique.edu/). I did my master research internship at [LIP6](https://www.lip6.fr/recherche/team.php?acronyme=RO).
 
-Previously, I was  a USAID Scholar at the [American University of Beirut](http://www.aub.edu.lb/) where I graduated with a Bachelor of Science in Computer Science and a Minor in Computational Science in 2017.
+Previously, I was a USAID Scholar at the [American University of Beirut](http://www.aub.edu.lb/) where I graduated with a Bachelor of Science in Computer Science and a Minor in Computational Science in 2017.
 
 My research interests include:
 * Discrete & Computational Geometry
