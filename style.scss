@@ -64,6 +64,11 @@ h4 {
   color: $gray;
 }
 
+h5 {
+  font-size: 12px;
+  color: $gray;
+}
+
 p {
   margin: 15px 0;
 }
@@ -276,6 +281,14 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+.callout {
+    float: right;
+    border-radius: 10px;
+    width: 200px;
+    border: 2px solid #ddd;
+    margin-left:5px;
 }
 
 footer {
