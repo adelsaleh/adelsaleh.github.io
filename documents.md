@@ -5,6 +5,6 @@ title: ""
 
 ## Mathematics and Computer Science Reports
 
-* [Hasegawa-Mima equation simulator based on the FreeFem++ software.]({{ site.baseurl }}/pdfs/HM.pdf)
+* [Modon Cases for Hasegawa Mima Equation.]({{ site.baseurl }}/pdfs/HM.pdf)
 
-* [A simulator for quantum algorithms.]({{ site.baseurl }}/pdfs/qvm.pdf)
+* [A Simulator for Quantum Algorithms.]({{ site.baseurl }}/pdfs/qvm.pdf)
