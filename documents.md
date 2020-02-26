@@ -3,22 +3,9 @@ layout: page
 title: ""
 ---
 
-## Computer Science Internship and Project Reports
+## Mathematics and Computer Science Reports
 
-* [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
+* [Hasegawa-Mima equation simulator based on the FreeFem++ software.]({{ site.baseurl }}/pdfs/HM.pdf).
 
-* [Topological Optimization Using Laguerre Diagram]({{ site.baseurl }}/pdfs/m1_research_Internship_report.pdf) First year research internship.
+* [A simulator for quantum algorithms.]({{ site.baseurl }}/pdfs/qvm.pdf).
 
-* [Scalable Nearest Neighbour Algorithms for High
-Dimensional Data]({{ site.baseurl }}/pdfs/snnahdd.pdf) First year project report.
-
-* [Computing Geodesic Distance Based on Heat Flow]({{ site.baseurl }}/pdfs/cggbohf.pdf) Digital Analysis and Representation of Shapes course project.
-
-### Philosophy of Physics Papers
-
-* [Space and Change]({{ site.baseurl }}/pdfs/Space_and_Change.pdf)
-
-* [Space and Geometry]({{ site.baseurl }}/pdfs/Space_and_Geometry.pdf)
-
-
-* [Quantum Experiences]({{ site.baseurl }}/pdfs/Quantum_Experiences.pdf)
