@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Hussein Houdrouge
+name: Adel Saleh
 
 # Short bio or description (displayed in the header)
-description: "Geometry and Computer Science"
+description: ""
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/1024px-Dodecahedron.svg.png
+avatar:
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.s
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hah51@mail.aub.edu
+  email:
   facebook:
   flickr:
-  github: CHoudrouge4
+  github: adelsaleh
   instagram:
-  linkedin: husseinhoudrouge
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
