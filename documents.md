@@ -13,6 +13,6 @@ title: ""
 
 * [Personal Notes on Stochastic Processes.]({{ site.baseurl}}/pdfs/sp.pdf)
 
-* [Notes on Polynomial Method]({{ site.baseurl }}/pdfs/math307.pdf)
+* [Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/math307.pdf)
 
 
