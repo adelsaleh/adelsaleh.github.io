@@ -5,7 +5,7 @@ title: ""
 
 ## Mathematics and Computer Science Reports
 
-* [CV]({{ site.baseurl }}/pdfs/cv.pdf)
+* [CV.]({{ site.baseurl }}/pdfs/cv.pdf)
 
 * [Modon Cases for Hasegawa Mima Equation.]({{ site.baseurl }}/pdfs/HM.pdf)
 
