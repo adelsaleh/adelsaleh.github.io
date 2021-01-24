@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+![Alt text](/images/me.png){: .callout}
+
 ## Mathematics and Computer Science Reports
 
 * [CV.]({{ site.baseurl }}/pdfs/cv.pdf)
