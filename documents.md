@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![Alt text](/images/me.png){: .callout}
+![Alt text](/images/me.jpg){: .callout}
 
 ## Mathematics and Computer Science Reports
 
