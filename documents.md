@@ -2,9 +2,6 @@
 layout: page
 title: ""
 ---
-
-![Alt text](/images/me.jpg){: .callout}
-
 ## Mathematics and Computer Science Reports
 
 * [CV.]({{ site.baseurl }}/pdfs/cv.pdf)
