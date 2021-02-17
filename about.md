@@ -13,6 +13,6 @@ to solve old problems, with the hope of obtaining tools to tackle the unresolved
 and rely on Physics and Computer Science for intuition.
 I actively develop my communication skills to relay information in the simplest and most interesting way possible.
 
-My CV can be found [here.]({{ site.baseurl }}/pdfs/cv.pdf)
+My CV can be found [here.]({{ site.baseurl }}/pdfs/cv.pdf) You can also find my personal note on mathematical topics [here.](https://adelsaleh.github.io/documents/)
 
 
