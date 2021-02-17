@@ -4,8 +4,6 @@ title: ""
 ---
 ## Mathematics and Computer Science Reports
 
-* [CV.]({{ site.baseurl }}/pdfs/cv.pdf)
-
 * [Modon Cases for Hasegawa Mima Equation. (work in progress)]({{ site.baseurl }}/pdfs/HM.pdf)
 
 * [A Simulator for Quantum Algorithms.]({{ site.baseurl }}/pdfs/qvm.pdf)

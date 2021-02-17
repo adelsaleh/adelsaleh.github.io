@@ -12,3 +12,7 @@ on intuition and simplicity, without compromising precision and rigor, and (when
 to solve old problems, with the hope of obtaining tools to tackle the unresolved ones. I investigate connections between the many fields of Mathematics
 and rely on Physics and Computer Science for intuition.
 I actively develop my communication skills to relay information in the simplest and most interesting way possible.
+
+My CV can be found [here.]({{ site.baseurl }}/pdfs/cv.pdf)
+
+
