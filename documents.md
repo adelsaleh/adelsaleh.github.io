@@ -10,7 +10,7 @@ title: ""
 
 * [Personal Notes on Stochastic Processes. (work in progress)]({{ site.baseurl}}/pdfs/sp/main.pdf)
 
-* [Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/307/math307.pdf)
+* [Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/307/307.pdf)
 
 
 
