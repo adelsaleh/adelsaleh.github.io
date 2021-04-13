@@ -15,8 +15,7 @@ The reference also focuses on giving out fully detailed proofs, with minimal ass
 ## Traveling Waves of the Hasegawa-Mima Equation
 
 As part of my MS thesis, I am currently investigating the behavior of traveling wave solutions to the Hasegawa-Mima equation.  
-The goal of this inquiry is to adress, numerically and anlytically, a certain discrepency between classical results obtained in the literature on one hand and some recent results on the other.
-The report can be found here. 
+The goal of this inquiry is to adress, numerically and anlytically, a certain discrepency between classical results obtained in the literature on one hand, and some more recent results on the other.
 
 [Modon Cases for Hasegawa Mima Equation.]({{ site.baseurl }}/pdfs/hm/HM.pdf)
 
@@ -26,15 +25,15 @@ An ambitious project aimed at simulating MG-QTMs, a generalization of Stationary
 It started out as a final year project for George Zakhour and Bayan Rafeh and is kept under occasional maintenance.
  I am responsible for developing and maintaining the Arithmetic Logic Unit (ALU) of Quantum Virtual Machine (QVM for short) which simulates these QTM's. \\ 
 
-The report can be found here [A Simulator for Quantum Algorithms.]({{ site.baseurl }}/pdfs/qvm/qvm.pdf). The code can be found  [here](https://github.com/adelsaleh/qvm).
+[A Simulator for Quantum Algorithms.]({{ site.baseurl }}/pdfs/qvm/qvm.pdf)
 
 ## Personal Notes on Polynomial Method
 
 These are my personal notes for the Polynomial Method course (MATH 307: Special Topics in Analysis) given by [Dr. Bassam Shayya](https://sites.aub.edu.lb/bshayya/) (American University of Beirut).   
 
-These notes serve as an introduction to the recent method (2010-2015) that was used by Larry Guth to solve the Erdos distance set conjecture. 
+These notes serve as an introduction to the recent method (2010-2015) used by Larry Guth (MIT) to solve the Erdos distance set conjecture. 
 
-The notes can be found here: [Notes on Polynomial Method]({{ site.baseurl }}/pdfs/307/307.pdf).
+[Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/307/307.pdf)
 
 
 
