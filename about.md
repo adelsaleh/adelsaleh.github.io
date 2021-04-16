@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# About 
-
 My CV can be found [here.]({{ site.baseurl }}/pdfs/cv.pdf) 
 
 ![Alt text](/images/me.jpg){: .callout}
