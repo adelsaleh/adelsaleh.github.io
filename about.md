@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Home
 permalink: /
 ---
 
-#About 
+# About 
 
 My CV can be found [here.]({{ site.baseurl }}/pdfs/cv.pdf) 
 
