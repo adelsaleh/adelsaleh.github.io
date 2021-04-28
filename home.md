@@ -5,17 +5,13 @@ title: Mathematics and Computer Science Projects
 ---
 
 
-
-
-
-
 ## Stochastic Analysis 
 
 The following document is a project I initiated in January 2021 as part of my self-study of Stochastic Processes. 
 As stochastic analysis is my main research interest, I thought it would essential to have a comprehensive reference covering the foundations, all the way from Measure theory to special topics in Stochastic Partial Differential Equations. 
 The document also focuses on filling out details of the proofs given by authors in the field, with the aim being self-containment and completeness. 
 
-[Personal Notes on Stochastic Processes. (Work in progess)]({{ site.baseurl}}/pdfs/sp/main.pdf)
+ - Document: [Personal Notes on Stochastic Processes (*work in progress*).]({{ site.baseurl}}/pdfs/sp/main.pdf) 
 
 
 ## Traveling Waves of the Hasegawa-Mima Equation
@@ -39,7 +35,7 @@ This equation is used to model turbulent plasma inside a tokamak reactor.
 
  The goal of this inquiry is to adress, numerically and analytically, a certain discrepency between classical results obtained in the literature on one hand, and some more recent results on the other.
 
- - Report: [Modon Cases for Hasegawa Mima Equation. (Work in progess)]({{ site.baseurl }}/pdfs/hm/mywork.pdf)
+ - Report: [Modon Cases for Hasegawa Mima Equation (*work in progress)*.]({{ site.baseurl }}/pdfs/hm/mywork.pdf)
  - Code: [Github repository.](https://github.com/adelsaleh/hmSimulator)
 
 
@@ -58,4 +54,4 @@ These are my personal notes for the Polynomial Method course (MATH 307: Special 
 
 These notes serve as an introduction to the recent method (2010-2015) used by Larry Guth (MIT) to solve the [Erdős distinct distances problem](https://en.wikipedia.org/wiki/Erd%C5%91s_distinct_distances_problem ). 
 
-[Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/307/307.pdf)
+ - Document: [Notes on Polynomial Method.]({{ site.baseurl }}/pdfs/307/307.pdf)
