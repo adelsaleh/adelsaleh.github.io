@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /
+title: Mathematics and Computer Science Projects
 ---
 
 
 
 
 
-# Mathematics and Computer Science Projects
 
 ## Stochastic Analysis 
 
