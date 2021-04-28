@@ -13,6 +13,8 @@
 /* BASE RULES */
 /**************/
 
+
+
 html {
   font-size: 100%;
 }
@@ -289,6 +291,16 @@ nav {
     width: 200px;
     border: 2px solid #ddd;
     margin-left:5px;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 0px;
 }
 
 footer {
